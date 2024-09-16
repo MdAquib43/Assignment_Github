@@ -3,4 +3,4 @@
 echo "Hello, World! This is a simple shell script."
 echo "Welcome to the simple shell script!"
 echo "Please enter your name:"
-read NAME
+
